@@ -1,0 +1,1 @@
+var json_WeatherStation_18 = {"type":"FeatureCollection","name":"WeatherStation_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"Weather Station"},"geometry":{"type":"Point","coordinates":[18.924599999272157,-34.02352167869909]}}]}
